@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>PBMenu.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,16 @@
 			<true/>
 		</dict>
 		<key>60C815ED1F62461E00CEC5D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>60C818211F62972A00CEC5D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>60C818291F62972A00CEC5D6</key>
 		<dict>
 			<key>primary</key>
 			<true/>

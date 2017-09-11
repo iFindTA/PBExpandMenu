@@ -48,6 +48,16 @@
                ReferencedContainer = "container:PBExpandMenu.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "60C818291F62972A00CEC5D6"
+               BuildableName = "PBMenuTests.xctest"
+               BlueprintName = "PBMenuTests"
+               ReferencedContainer = "container:PBExpandMenu.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
